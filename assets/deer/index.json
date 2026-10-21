@@ -1,0 +1,11 @@
+{
+  "_comment": "小鹿 lulu 素材索引。tag 用于按内容情绪自动匹配；position 为推荐落位。",
+  "deer": [
+    {"file": "study.png", "tag": ["学习", "备考", "看书", "知识"], "mood": "专注", "position": "bottom-right", "scale": 0.26},
+    {"file": "cheer.png", "tag": ["加油", "鼓励", "正向", "总结"], "mood": "鼓励", "position": "bottom-right", "scale": 0.28},
+    {"file": "sprint.png", "tag": ["冲刺", "紧迫", "倒计时", "提速"], "mood": "冲劲", "position": "bottom-right", "scale": 0.26},
+    {"file": "harvest.png", "tag": ["积累", "长期", "上岸", "收获"], "mood": "耕耘", "position": "bottom-right", "scale": 0.26},
+    {"file": "board.png", "tag": ["重点", "清单", "划重点", "提醒"], "mood": "提示", "position": "bottom-right", "scale": 0.25},
+    {"file": "rest.png", "tag": ["休息", "焦虑", "熬夜", "放松"], "mood": "共情", "position": "bottom-right", "scale": 0.24}
+  ]
+}

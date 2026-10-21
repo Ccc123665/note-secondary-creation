@@ -1,0 +1,30 @@
+{
+  "说明": "中公宣传品唯一允许使用的可商用字体（方正兰亭系列 + 黑体/楷体/仿宋/书宋）。不使用艺术字体/展示字体。",
+  "版权提示": "以下为已购买授权字体，仅限中公教育宣传品使用，不得外传或用于非授权场景。",
+  "default": {
+    "bold": "FZLTCHJW.TTF",
+    "regular": "FZLTHJW.TTF",
+    "heavy": "FZLTTHJW.TTF"
+  },
+  "bundled": [
+    {"file": "FZLTCHJW.TTF", "family": "FZLanTingHeiS-B-GB", "cn": "方正兰亭粗黑", "role": "bold", "note": "粗体/小标题/强调/序号"},
+    {"file": "FZLTHJW.TTF",  "family": "FZLanTingHeiS-R-GB", "cn": "方正兰亭黑",   "role": "regular", "note": "正文"},
+    {"file": "FZLTTHJW.TTF", "family": "FZLanTingHeiS-H-GB", "cn": "方正兰亭准黑", "role": "heavy", "note": "页头大标题"}
+  ],
+  "alternates_未随包_可按需放入本目录": [
+    {"file": "方正黑体简体.TTF", "family": "FZHei-B01S",       "cn": "方正黑体", "role": "regular"},
+    {"file": "方正楷体简体.ttf", "family": "FZKai-Z03S",       "cn": "方正楷体", "role": "regular"},
+    {"file": "方正仿宋简体.TTF", "family": "FZFangSong-Z02S",  "cn": "方正仿宋", "role": "regular"},
+    {"file": "方正书宋简体.ttf", "family": "FZShuSong-Z01S",   "cn": "方正书宋", "role": "regular"}
+  ],
+  "forbidden_艺术字体": [
+    "庞门正道标题体/轻松体",
+    "胡晓波男神体/真帅体/骚包体/高端黑/酷黑",
+    "站酷快乐体/庆科黄油体/小薇",
+    "中公美瑶艺术毛笔字/美瑶Q萌手写体",
+    "ZCOOL Addict Italic",
+    "优设好身体",
+    "锐字真言体"
+  ],
+  "fallback": "包内字体缺失时，渲染器回退 Windows 雅黑(msyh)/黑体(simhei)，保证换机器也能出图；正式对外物料务必保留包内方正字体。"
+}

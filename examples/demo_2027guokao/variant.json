@@ -1,0 +1,53 @@
+{
+  "seed": 20261020,
+  "created": "2026-10-20T09:55:59",
+  "dimensions": {
+    "perspective": {
+      "id": "lister",
+      "label": "清单罗列"
+    },
+    "hook": {
+      "id": "question",
+      "label": "提问"
+    },
+    "structure": {
+      "id": "compare",
+      "label": "对比拆解"
+    },
+    "tone": {
+      "id": "calm",
+      "label": "冷静分析"
+    },
+    "rhythm": {
+      "id": "short",
+      "label": "短句密排"
+    },
+    "title_pattern": {
+      "id": "urgent",
+      "label": "紧迫型"
+    },
+    "palette": {
+      "id": "sky",
+      "label": "天空白"
+    },
+    "layout": {
+      "id": "magazine",
+      "label": "杂志刊头"
+    },
+    "cover": {
+      "id": "bigword",
+      "label": "关键词大字"
+    },
+    "font_pair": {
+      "id": "hei_bold",
+      "label": "黑体+雅黑"
+    },
+    "deer": {
+      "id": "cheer",
+      "label": "点赞"
+    }
+  },
+  "relaxed": false,
+  "source": "2027国考选岗攻略",
+  "n_index": 1
+}

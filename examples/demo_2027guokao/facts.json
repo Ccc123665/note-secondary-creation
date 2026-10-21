@@ -1,0 +1,32 @@
+{
+  "source": "2027国考选岗攻略·三步锁定可报岗位（中公教育）.pdf",
+  "mode": "text-layer + vision",
+  "recommend_vision": true,
+  "sentence_quality": 0.118,
+  "facts": [
+    {"id": "F01", "type": "conclusion", "level": "must",
+     "statement": "选岗三步：理条件 → 定城市 → 筛岗位；本质是先做减法再做比较",
+     "source": "第 2 页 三步法总览", "numbers": [], "note": ""},
+    {"id": "F02", "type": "number", "level": "must",
+     "statement": "职位表在国家公务员局官网「相关下载」处，以 .xlsx 附件形式提供",
+     "source": "第 4 页 第一步", "numbers": [], "note": ""},
+    {"id": "F03", "type": "number", "level": "must",
+     "statement": "一张 Excel 通常含四个工作表，分别对应四类招录机关",
+     "source": "第 4 页 看表三条经验", "numbers": ["4", "四"], "note": ""},
+    {"id": "F04", "type": "rule", "level": "must",
+     "statement": "筛选前先冻结首行：视图 → 冻结窗格 → 冻结首行",
+     "source": "第 4 页 看表三条经验", "numbers": [], "note": ""},
+    {"id": "F05", "type": "rule", "level": "must",
+     "statement": "六项硬条件：专业、学历、学位、政治面貌、基层工作经历、服务基层项目经历",
+     "source": "第 6 页 条件清单", "numbers": ["6", "六"], "note": ""},
+    {"id": "F06", "type": "number", "level": "must",
+     "statement": "筛完后划冲、稳、保三档，每档留 1-2 个，报名截止前再微调",
+     "source": "第 13 页 定档", "numbers": ["3", "三", "1", "2"], "note": ""},
+    {"id": "F07", "type": "rule", "level": "must",
+     "statement": "备注栏是隐藏条件集中地，必须逐字阅读",
+     "source": "第 10 页 备注栏", "numbers": [], "note": ""},
+    {"id": "F08", "type": "rule", "level": "must",
+     "statement": "六步筛选顺序：基层工作最低年限 → 学历 → 学位 → 专业 → 政治面貌/服务基层项目 → 备注",
+     "source": "第 11 页 六步筛选法", "numbers": ["6", "六"], "note": "顺序不可颠倒"}
+  ]
+}

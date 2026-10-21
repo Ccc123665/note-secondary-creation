@@ -1,0 +1,17 @@
+{
+  "_comment": "12 套预置色板。light=浅底深字，dark=深底浅字。render_note.py 按 variant.palette 读取。",
+  "palettes": [
+    {"id": "cream_orange", "name": "奶油橙", "mode": "light", "bg": "#FAF3E9", "surface": "#FFFFFF", "ink": "#2A2118", "sub": "#7A6A58", "accent": "#E8622B", "accent2": "#C98A2E", "line": "#E6D8C6"},
+    {"id": "mist_blue", "name": "雾霾蓝", "mode": "light", "bg": "#EFF4F8", "surface": "#FFFFFF", "ink": "#17263A", "sub": "#5C738B", "accent": "#2D6CDF", "accent2": "#5FA8D3", "line": "#D6E2EE"},
+    {"id": "mint", "name": "薄荷青", "mode": "light", "bg": "#EFF7F1", "surface": "#FFFFFF", "ink": "#1B2E24", "sub": "#5C7A68", "accent": "#1F8A5B", "accent2": "#7BC49A", "line": "#D3E7DA"},
+    {"id": "paper_pink", "name": "藕粉纸", "mode": "light", "bg": "#FBF1F2", "surface": "#FFFFFF", "ink": "#33222A", "sub": "#8A6A74", "accent": "#D94F70", "accent2": "#E9A0AE", "line": "#EFD9DD"},
+    {"id": "kraft", "name": "牛皮纸", "mode": "light", "bg": "#F3EBDD", "surface": "#FFFDF7", "ink": "#2F2418", "sub": "#7A6648", "accent": "#B4762E", "accent2": "#D9A45B", "line": "#DFCFB6"},
+    {"id": "sky", "name": "天空白", "mode": "light", "bg": "#F7FAFC", "surface": "#FFFFFF", "ink": "#14202B", "sub": "#5E7484", "accent": "#0E7C9B", "accent2": "#6BB8CC", "line": "#D9E7EC"},
+    {"id": "forest", "name": "森茶绿", "mode": "light", "bg": "#F2F0E4", "surface": "#FFFFFF", "ink": "#22301F", "sub": "#6B7A5C", "accent": "#4F6B2E", "accent2": "#8CA25C", "line": "#DDE0C8"},
+    {"id": "lilac", "name": "藕荷紫", "mode": "light", "bg": "#F4F1F8", "surface": "#FFFFFF", "ink": "#241E33", "sub": "#70628A", "accent": "#6B4FA8", "accent2": "#A98FD1", "line": "#E0D8EC"},
+    {"id": "ink_red", "name": "墨黑正红", "mode": "dark", "bg": "#141414", "surface": "#1E1E1E", "ink": "#F5F0EA", "sub": "#A39B92", "accent": "#E8353F", "accent2": "#FFB03A", "line": "#333333"},
+    {"id": "navy_gold", "name": "深海金", "mode": "dark", "bg": "#0F1B33", "surface": "#17264A", "ink": "#F1F5FF", "sub": "#93A4C4", "accent": "#F2C14E", "accent2": "#6C8FD6", "line": "#2A3A5C"},
+    {"id": "black_lime", "name": "黑青柠", "mode": "dark", "bg": "#111311", "surface": "#1B1F1B", "ink": "#F2F7EE", "sub": "#8D9A88", "accent": "#A6E22E", "accent2": "#5FA84E", "line": "#2B302B"},
+    {"id": "wine", "name": "酒红米", "mode": "dark", "bg": "#2B1114", "surface": "#3A1A1E", "ink": "#F7EDE4", "sub": "#B79A94", "accent": "#E8A87C", "accent2": "#C96A5A", "line": "#4E2A2E"}
+  ]
+}
